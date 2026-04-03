@@ -2,7 +2,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     int A, B;
     
     cout << "Введите A и B (A <= B): ";
@@ -23,7 +24,8 @@ int main() {
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     int A, B;
     
     cout << "Введите диапозон чисел от A до B (A <= B): ";
@@ -48,7 +50,8 @@ int main() {
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     int A, B;
     
     cout << "Введите числа от A до B (A <= B): ";
